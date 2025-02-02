@@ -192,4 +192,4 @@ def main():
 if __name__ == "__main__":
     main()
     while True:
-        time.sleep(60)  # Prevents Railway from shutting down the bot
+        time.sleep(10)  # Prevents Railway from shutting down the bot
